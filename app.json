@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "appID": "cli_a5abd9dde339900b",
+  "appType": "docs-addon",
+  "blockTypeID": "blk_652165c042014004e2bd6fc2",
+  "projectName": "game",
+  "contributes": {
+    "addPanel": {
+      "initialHeight": 500,
+      "initialWidth": 640,
+      "view": "index.html"
+    }
+  },
+  "url": "https://gw99qg2wlc.feishu.cn/docx/HG7TdFXp8oHt5axxxFncmrC6n25"
+}
